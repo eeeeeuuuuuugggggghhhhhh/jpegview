@@ -170,16 +170,4 @@ The starting point for this repo was a direct clone from SourceForge SVN to GitH
 
 I'm hoping with this project, some devs might help me keep the project alive!  It's been awhile, and could use some new features or updates.  Looking forward to the community making suggestions, and devs will help with some do pull requests as some of the image code is quite a learning curve for me to pick it up. -sylikc
 
-## Special Thanks
-
-Special thanks to [qbnu](https://github.com/qbnu) for adding additional codec support!
-* Animated WebP
-* Animated PNG
-* JPEG XL with animation support
-* HEIF/HEIC/AVIF support
-* QOI support
-* ICC Profile support for WebP, JPEG XL, HEIF/HEIC, AVIF
-* LibRaw support (all updated RAW formats, such as CR3)
-* Photoshop PSD support
-
 Thanks to all the _translators_ which keep JPEGView strings up-to-date in different languages!  See [CHANGELOG.txt](https://github.com/sylikc/jpegview/blob/master/CHANGELOG.txt) to find credits for translators at each release!
